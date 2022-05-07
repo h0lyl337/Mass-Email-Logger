@@ -17,7 +17,7 @@ Yahoo{<br>
   &emsp;auto-login: 1<br>
   &emsp;linux: 1<br>
   &emsp;bypass-detection: 1<br>
-  &emsp;auto-captcha: 0<br>
+  &emsp;auto-captcha: 1<br>
   &emsp;email-grabber:0<br>
   &emsp;windows: 0<br>
   &emsp;mac: 0<br>
