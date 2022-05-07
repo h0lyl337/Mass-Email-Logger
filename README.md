@@ -13,7 +13,7 @@ Gmail {<br>
   &emsp;mac: 0<br>
   &emsp;}<br>
   
-Yahoo{
+Yahoo{<br>
   &emsp;auto-login: 1<br>
   &emsp;linux: 1<br>
   &emsp;bypass-detection: 1<br>
