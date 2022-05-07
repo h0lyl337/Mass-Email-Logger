@@ -1,4 +1,4 @@
-))))# Mass-Email-Logger
+Mass-Email-Logger
 a script to bypass bot detection,login to all emails in a file, email and passwords separated with : and retrieve emails. This script is incomplete.
 
 Features completed: 5/7/22
