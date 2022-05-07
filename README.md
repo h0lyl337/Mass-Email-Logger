@@ -32,5 +32,15 @@ AOL{<br>
   &emsp;windows: 0<br>
   &emsp;mac: 0<br>
   &emsp;}<br>
+ 
+ iCLOUD{<br>
+  &emsp;auto-login: 0<br>
+  &emsp;linux: 0<br>
+  &emsp;bypass-detection: 0<br>
+  &emsp;auto-captcha: 0<br>
+  &emsp;email-grabber:0<br>
+  &emsp;windows: 0<br>
+  &emsp;mac: 0<br>
+  &emsp;}<br>
   
 A full description, tutorial, cleaner-code, and comments comming soon.
