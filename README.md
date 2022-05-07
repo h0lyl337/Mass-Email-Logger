@@ -3,7 +3,7 @@ a script to bypass bot detection,login to all emails in a file, email and passwo
 
 Features completed: 5/7/22
 
-Gmail{
+Gmail{\n
   auto-login: 1
   linux: 1
   bypass-detection: 1
